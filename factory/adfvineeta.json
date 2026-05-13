@@ -1,0 +1,15 @@
+{
+	"name": "adfvineeta",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "940fdc57-0255-4a35-a8a2-411e70dc8fc8",
+		"tenantId": "26c4f340-a172-47ec-97f5-ee0e31e7ef95"
+	}
+}
